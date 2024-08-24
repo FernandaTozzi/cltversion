@@ -1,0 +1,6 @@
+git init: Inicializa um novo repositório Git em um diretório.
+git status: Exibe o status atual do repositório, mostrando arquivos modificados, preparados para commit e etc...
+git add: Adiciona mudanças no arquivo.
+git commit -m "Avaliacao": Grava as mudanças preparadas no repositório com o nome "Avaliacao".
+git branch -M main: Renomeia a branch atual para "main" e muda para ela.
+git remote add origin https://github.com/FernandaTozzi/cltversion.git: Adiciona um repositório remoto chamado "origin, apontando para a URL do meu repositório.
